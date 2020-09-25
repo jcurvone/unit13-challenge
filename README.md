@@ -1,6 +1,6 @@
 # Unit 13 Challenge - Clustering Crypto 
 
-Notebook code: [Notebook](https://github.com/jcurvone/timeseries_hw10/blob/master/timeseries_analysis.ipynb)
+Notebook code: [Notebook](https://github.com/jcurvone/unit13-challenge/blob/master/ClusteringCrypto/crypto_classification.ipynb)
 
 ## Data Prep
 
@@ -11,3 +11,11 @@ When using **OneHotEncoder** it was necessary to create two separates dataframes
 ## K-Means 
 
 The elbow curve indicated that 4 clusters would be the best cost-benefit efficient selection for the K-Means model. 
+
+## Final Results 
+
+![3d](3d.png)
+
+![table](table.png)
+
+![scatter](scatter.png)
